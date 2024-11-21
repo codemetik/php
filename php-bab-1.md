@@ -25,5 +25,18 @@ Server Side Scripting merupakan sebuah teknologi _scripting_ atau pemrograman we
       2. Free
       3. Mudah dipelajari
       4. Multi-platform
-      5. Dukungan
-      
+      5. Dukungan _technical-support_
+      6. Banyaknya komunikasi PHP
+      7. Aman
+
+### 3. Instalasi APache, PHP dan MySQL dengan XAMPP
+Beberapa aplikasi paket antara lain:
+####
+      1. XAMPP (versi Windows) dan LAMPP (versi linux) yang dapat didownload di http://apachefriends.org.
+      2. WAMP Server
+      3. APPServ
+      4. PHPTriad.
+
+Dalam prakti ini menggunakan aplikasi paket server yaitu XAMPP. 
+silahkan Download Source XAMPP versi stabil terbaru di http://apachefriends.org. pilih versi sesuai dengan sistem operasi yang anda gunakan (tersedia versi untuk Windows, Linux, Mac).
+Pastikan Komputer yang digunakan untuk praktik berjalan dengan baik dengan kapasitas memori dan hardisk yang masih mencukupi.
