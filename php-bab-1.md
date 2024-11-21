@@ -78,3 +78,5 @@ echo "Hellow World";
 ```
 
 dari program di atas akan menampilkan ```Hellow World``` pada Web Browser dengan akses url : http://localhost/latihanphp/
+
+### <a href="">Lanjut Bab 2 Struktur Dasar PHP</a>
