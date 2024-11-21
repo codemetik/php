@@ -42,4 +42,20 @@ silahkan Download Source XAMPP versi stabil terbaru di http://apachefriends.org.
 Pastikan Komputer yang digunakan untuk praktik berjalan dengan baik dengan kapasitas memori dan hardisk yang masih mencukupi. 
 
 Setelah XAMPP sudah terinstall selanjutkan jalankan XAMPP seperti berikut :
+![xampp](https://github.com/user-attachments/assets/e60d4a5c-21f1-48ba-addf-c268e5d9fd75)
+
+Selanjutnya memastikan Web Server sudah bisa digunakan dengan cara buka aplikasi Google Chrome atau web browser lainnya, dan akses url berikut: http://localhost/dashboard/ atau http://127.0.0.1/dashboard/. 
+jika berhasil menampilkan halaman dashboard XAMPP maka Web Server sudah bisa digunakan untuk program PHP.
+
+### 4. Instalasi Text Editor
+Dalam praktik ini kita menggunakan Sublimtext https://www.sublimetext.com/download namun jika ingin menggunakan VisualCode juga bisa : https://code.visualstudio.com/Download
+
+### 5. Direktory ROOT Project WEB pada Paket Server XAMPP
+Direktori root Xampp htdocs adalah folder htdocs yang merupakan direktori default atau home directory pada Xampp. Lokasi folder ini biasanya berada di C:\xampp\htdocs pada Windows
+
+#### Fungsi
+      Tempat menyimpan berkas web, seperti HTML, CSS, PHP, gambar, dll. yang dapat diakses melalui URL localhost
+
+### Tips
+      Untuk mengorganisir project website, sebaiknya buat folder untuk masing-masing project website.
 
