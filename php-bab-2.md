@@ -9,8 +9,8 @@
 6. Peserta praktik normal dalam penglihatannya sehingga dapat membedakan antara :
 
    - Tulisan <b>nama</b>, <b>Nama</b>, dan <b>NAMA</b>
-   - Koma (,), titik-koma (;), dan titik-dua (:)
-   - Kutip-tunggal ('), dan kutip-ganda (")
+   - Koma ( <b>,</b> ), titik-koma ( <b>;</b> ), dan titik-dua ( <b>:</b> )
+   - Kutip-tunggal ( <b>'</b> ), dan kutip-ganda ( <b>"</b> )
    - Tuilsan <b>namasiswa</b>, <b>nama_siswa</b>, dan <b>nama siswa</b>
 
 7. Peserta praktik pernah menggunakan www.google.com
