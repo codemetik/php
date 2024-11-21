@@ -14,3 +14,11 @@
    - Tuilsan <b>namasiswa</b>, <b>nama_siswa</b>, dan <b>nama siswa</b>
 
 7. Peserta praktik pernah menggunakan www.google.com
+
+### Mari Mengenal PHP
+PHP merupakan singkatan dai _Hypertext Preprocessor_ yang pertama kali dibuat oleh _Rasmus Lerdorf_ pada tahun 1994. 
+PHP harus ditulis diantara tag :
+- <? dan ?>
+- <?php dan ?>
+- <script language="php"> dan </script>
+- <% dan %>
