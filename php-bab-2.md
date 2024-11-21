@@ -22,3 +22,12 @@ PHP harus ditulis diantara tag :
 - ```<?php dan ?>```
 - ```<script language="php"> dan </script>```
 - ```<% dan %>```
+Setiap satu statement (perintah) biasanya diakhiri dengan titik-koma ( <b>;</b> ), CASE SENSITIVE untuk nama identifier yang dibuat oleh user (berupa `variable`, `konstanta`, `fungsi` dll), namun tidak CASE SENSITIVE untuk identifier _built-in_ dari PHP, jadi :
+
+- ```$nama != $Nama != NAMA```
+- ```hitungLuas() != HitungLuas()```
+- ```echo = ECHO```
+- ```while = WHILE```
+
+sesungguhnya PHP mudah dipelajari.
+
