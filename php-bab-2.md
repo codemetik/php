@@ -18,7 +18,7 @@
 ### Mari Mengenal PHP
 PHP merupakan singkatan dai _Hypertext Preprocessor_ yang pertama kali dibuat oleh _Rasmus Lerdorf_ pada tahun 1994. 
 PHP harus ditulis diantara tag :
-- <? dan ?>
-- <?php dan ?>
-- <script language="php"> dan </script>
-- <% dan %>
+- ```<? dan ?>```
+- ```<?php dan ?>```
+- ```<script language="php"> dan </script>```
+- ```<% dan %>```
