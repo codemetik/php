@@ -61,7 +61,7 @@ Direktori root Xampp htdocs adalah folder htdocs yang merupakan direktori defaul
       Untuk mengorganisir project website, sebaiknya buat folder untuk masing-masing project website.
 
 ### 5. Membuat Hellow World dengan php
-Pada praktik ini penulis menggunakan sistem operasi windows yang nama direktori root htdocs berapa di C:\xampp\htdocs\.
+Pada praktik ini penulis menggunakan sistem operasi windows yang mana direktori root htdocs berada di C:\xampp\htdocs\.
 
 1. Buat folder project di dalam folder htdoc dengan nama `latihanphp`
 2. Buka aplikasi SublimeText
